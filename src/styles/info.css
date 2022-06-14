@@ -1,0 +1,30 @@
+.ingredient{
+    color: var(--liver);
+}
+
+.ingredient h2{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Ubuntu';
+    font-weight: bolder;
+}
+.ingredients{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+
+.ingredients-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding: 3%;
+}
+
+.ingredients-1 h4{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    margin-bottom: 3%;
+}

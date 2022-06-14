@@ -1,0 +1,7 @@
+footer{
+    text-align: center;
+    background-color: var(--gainsboro);
+    padding: 1%;
+    font-family: 'Stint Ultra Condensed';
+    bottom: 4%;
+}
